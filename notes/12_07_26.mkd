@@ -1,11 +1,25 @@
 # Brainstorming Meeting on Opinion Formation
-
+Note: Professor claims to not remember what he was going to talk about. Blames it on
+Alzheimer.
 ## Coevolving Networks and OF
 [Rich [ Middle ] Poor]
 Interaction only Rich <-> Middle, Poor <-> Middle
-    
-Political System. Voting Dynamics. What's the emerging state? Polarization
+
+Political System Voting Dynamics. What's the emerging state? Polarization
 or Dominance?
 
 ### Timescale
+How to target to optimize time to dominance/impact in social networks for
+voting dynamics.
+
+### Damage Spreading
+How to do defects affect voting dynamics. In which group of people can we do
+the most damage?
+
+### Size of Middle Class
+
+### Loyalty
+How long do individuals stick to their opinion? Three groups A, B, C. C
+interacts with A and B: [A [C] B]
+#### Case: |B| > |A| > |C|
 
